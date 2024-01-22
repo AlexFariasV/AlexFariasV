@@ -1,4 +1,4 @@
-### Boas vinda ao meu perfil 💚
+### Welcome to my profile💚
 
 - My name is Alex Farias vaz dos Santos. 
 - I'm 17 years old.
