@@ -10,9 +10,10 @@ Desenvolvendo o futuro, linha de código por linha de código. Seja bem-vindo(a)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexy_fari/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-![AlexFariasV GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexFariasV&show_icons=true&theme=dark)
+![AlexFariasV GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexFariasV&show_icons=true&theme=dark&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFariasV&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFariasV&hide_progress=true&locale=pt-br)
+
 
 # Tecnologias que eu uso no meu dia
 ### 💻tecnologias
@@ -35,6 +36,6 @@ Desenvolvendo o futuro, linha de código por linha de código. Seja bem-vindo(a)
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 
