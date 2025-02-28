@@ -13,7 +13,6 @@ Desenvolvendo o futuro, linha de código por linha de código. Seja bem-vindo(a)
     "git.autofetch": true,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none",
-
     "workbench.tree.indent": 23,
     "explorer.compactFolders":false,
     "editor.wordWrap": "on",
