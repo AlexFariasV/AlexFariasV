@@ -14,7 +14,6 @@ Desenvolvendo o futuro, linha de código por linha de código. Seja bem-vindo(a)
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none",
 
-    //Essencial
     "workbench.tree.indent": 23,
     "explorer.compactFolders":false,
     "editor.wordWrap": "on",
