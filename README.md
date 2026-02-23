@@ -8,15 +8,52 @@ Desenvolvendo o futuro, linha de código por linha de código. Seja bem-vindo(a)
 
 ```json
 {
-    "files.autoSave": "afterDelay",
-    "git.confirmSync": false,
-    "git.autofetch": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "none",
-    "workbench.tree.indent": 23,
-    "explorer.compactFolders":false,
-    "editor.wordWrap": "on",
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.compactFolders": false,
+
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none",
+  "workbench.tree.indent": 23,
+  "workbench.colorTheme": "Min Dark",
+
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+
+  "chatgpt.lang": "pt-br",
+
+  "liveServer.settings.donotShowInfoMsg": true,
+
+  "compile-hero.sass-output-directory": "./css",
+  "compile-hero.scss-output-directory": "./css",
+  "compile-hero.generate-minified-css": true,
+
+  "settingsSync.ignoredExtensions": [
+    "ms-ceintl.vscode-language-pack-pt-br"
+  ],
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "terminal.integrated.fontFamily": "monospace",
+
+  "tabnine.experimentalAutoImports": true
 }
 ```
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFariasV&hide_progress=true&locale=pt-br)
